@@ -1,9 +1,15 @@
 # IT-CYBER
 idk what in entirety to do but i know i need to have deliverables, those will b here
 
-TRADING
-idk what in entirety to do but i know i need to have deliverables, those will b here
+the most actionable and efficient tasks would be to have an ideae related to IT/CYBER and create a small project out of it with detailed documentation
+detail my thoughts as to what developed the question or case study, then perform what is necessary
 
-the most actionable and efficient tasks would be to have a 20trade backtest completed this prevents me from looking at the same, exact, pairs friday, saturday, and sunday ... doing the same thing over and over.
+i've done this so far by asking 
+-why are these ads here
+-what does a siem delpoyment feel like
 
-so, at the least hit 5 trades logged if wanting to be stimulated by trading
+i can continue to ask
+-what does an edr do?
+-what does metasploit do?
+
+
